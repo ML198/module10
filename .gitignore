@@ -3,4 +3,4 @@ output/*.png
 report.html
 .DS_Store
 .Rproj.user
-.Rproj.user/*.Rproj.user/
+.Rproj.user/E40126C9/*
